@@ -22,9 +22,9 @@ Durante o dia, atuo como Operador Master na TV Aberta, lidando diretamente com a
 <div align="center">
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luizferia345&show_icons=true&theme=radical&hide_border=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luizferia345&layout=compact&theme=radical&hide_border=true)
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luizferia345&show_icons=true&theme=radical&hide_border=true&v=1)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luizferia345&layout=compact&theme=radical&hide_border=true&v=1)
+<div/>
 
 ## 📫 Como entrar em contato
 
