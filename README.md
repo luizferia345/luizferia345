@@ -19,14 +19,14 @@ Durante o dia, atuo como Operador Master na TV Aberta, lidando diretamente com a
 *   **Bancos de Dados:** MySQL (Modelagem DER, Consultas Avançadas).
 *   **Ferramentas:** Git/GitHub, VS Code, MySQL Workbench.
 
+<div align="center">
 ## 📈 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizferia345&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub de luizferia345" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizferia345&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" width="48%" />
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luizferia345&show_icons=true&theme=radical&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luizferia345&layout=compact&theme=radical&hide_border=true)
 </div>
 
 ## 📫 Como entrar em contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luiz-feria-050b7a2a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizferia)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizferia345@gmail.com)
